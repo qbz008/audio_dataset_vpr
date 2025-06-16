@@ -28,6 +28,8 @@ cd audio_dataset_vpr
 ```sheel
 conda create -n ad-vpr python=3.8
 conda activate ad-vpr
+#激活环境
+D:\path\to\ad-vpr-venv\Scripts\activate
 ```
 ### 安装PyTorch
 - 根据需求安装 PyTorch，详见[官网](https://pytorch.org/get-started/locally)，以下为 pip 安装 PyTorch-CUDA 版本的示例。如果已经安装，请跳过。
